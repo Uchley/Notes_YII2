@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "sass-loader": "^13.3.2"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "vue-router": "^4.2.2"
+  }
+}
